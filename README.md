@@ -355,6 +355,14 @@ public class OrmApplication {
 <img width="1006" height="657" alt="image" src="https://github.com/user-attachments/assets/bdc17d91-1d29-45ee-8266-9a86e9f3441d" />
 
 
+
+
+
+
+
+
+
+
 - `PUT /students/{id}` — update student
 
 <img width="1005" height="658" alt="image" src="https://github.com/user-attachments/assets/c72035fd-1b0a-4b75-8948-83862dfcd413" />
