@@ -349,17 +349,21 @@ public class OrmApplication {
 
 <img width="1005" height="652" alt="image" src="https://github.com/user-attachments/assets/5e400286-f822-4788-819b-c1e2d87dbecd" />
 
+
 - `GET /students` — list all students
 
 <img width="1006" height="657" alt="image" src="https://github.com/user-attachments/assets/bdc17d91-1d29-45ee-8266-9a86e9f3441d" />
+
 
 - `PUT /students/{id}` — update student
 
 <img width="1005" height="658" alt="image" src="https://github.com/user-attachments/assets/c72035fd-1b0a-4b75-8948-83862dfcd413" />
 
+
 - `DELETE /students/{id}` — delete student
 
 <img width="1006" height="663" alt="image" src="https://github.com/user-attachments/assets/6e0bd08c-b011-41aa-9fc7-d293ffbd7118" />
+
 
 ## Result
 
